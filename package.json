@@ -1,0 +1,30 @@
+{
+  "name": "arr-filter-fn",
+  "version": "0.0.0",
+  "description": "Filter and flattenify array to have only function values. Much like `arr-filter-function` package, but with flatten.",
+  "repository": "tunnckoCore/arr-filter-fn",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "arr-filter-function": "~1.0.0",
+    "arr-flatten": "~1.0.1"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "keywords": [
+    "arr",
+    "array",
+    "filter",
+    "flatten",
+    "fn",
+    "function",
+    "util",
+    "utility",
+    "value"
+  ]
+}
